@@ -4,6 +4,22 @@ An interactive, multi-tab operations dashboard built with **Python + Plotly**, v
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### 📋 Executive Overview
+![Executive Overview](screenshots/tab1_executive_overview.png)
+
+### 🏢 Company Performance
+![Company Performance](screenshots/tab2_company_performance.png)
+
+### ⚙️ Operations & Channels
+![Operations & Channels](screenshots/tab3_operations_channels.png)
+
+### 🗺 Geographic View
+![Geographic View](screenshots/tab4_geographic_view.png)
+
+---
+
 ## 🚀 Live Dashboard
 
 Open **`consumer_complaints_dashboard.html`** in any modern browser — no server or install needed.
