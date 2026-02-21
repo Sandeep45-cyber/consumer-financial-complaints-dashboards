@@ -1,6 +1,6 @@
 # 📊 Consumer Financial Complaints – Operations Dashboard
 
-An interactive, multi-tab operations dashboard built with **Python + Plotly**, visualising **555,957 consumer complaints** filed with the U.S. Consumer Financial Protection Bureau (CFPB) between 2012 and 2015.
+An interactive, multi-tab operations dashboard, visualising **555,957 consumer complaints** filed with the U.S. Consumer Financial Protection Bureau (CFPB) between 2012 and 2015.
 
 ---
 
